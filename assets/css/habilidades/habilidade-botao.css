@@ -1,0 +1,13 @@
+.habilidade__botao {
+    background: #0e12dfdc;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all 1s ease-in-out;
+}
+
+.habilidade__botao:hover {
+    background: #080974dc;
+    cursor: pointer;
+}

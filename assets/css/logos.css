@@ -1,0 +1,21 @@
+.logos {
+    width: 25px;
+    height: 25px;
+    transition: 1s all;
+    border-radius: 20%;
+    padding: 0px 5px;
+}
+
+.logos__ordem {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    padding: 10px 20px;
+}
+
+.logos:hover {
+    width: 30px;
+    height: 30px;
+}
